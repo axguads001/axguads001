@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @axguads001
-- 👀 I’m interested in ...C++,PYTHON AND LEARNING 
+- 👀 I’m interested in ...C++,Python,malware and trojans
 - 🌱 I’m currently learning ...ethical hachking
 - 💞️ I’m looking to collaborate on ...ethical hacking,red teaming , and everything hacking+++++++++++++++++++++++++++++++++++++++++++++++++
 - 📫 How to reach me ...jnassur45@gmail.com, or axguards@proton.me
