@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @axguads001
-- 👀 I’m interested in ...C++,Python,malware and trojans
-- 🌱 I’m currently learning ...ethical hachking
-- 💞️ I’m looking to collaborate on ...ethical hacking,red teaming , and everything hacking+++++++++++++++++++++++++++++++++++++++++++++++++
-- 📫 How to reach me ...jnassur45@gmail.com, or axguards@proton.me
+- 👀 I’m interested in ...C++,Python,malware , trojans and mostly Bug Bounty
+- 🌱 I’m currently learning ...ethical hachking and Bug Bounty 
+- 💞️ I’m looking to collaborate on ...ethical hacking,red teaming , and Bug Bounty
+  +++++++++++++++++++++++++++++++++++++++++++++++++
+- 📫 How to reach me ...nassur.bugbounty@proton.me
 - 😄 Pronouns: ...they 
 - ⚡ Fun fact: ...am crazy
 
